@@ -9,7 +9,7 @@ import (
 
 	"github.com/0x2142/frigate-notify/config"
 	"github.com/0x2142/frigate-notify/models"
-	"github.com/gregdel/pushover"
+	"github.com/arcanericky/pushover"
 )
 
 // SendPushoverMessage sends alert message through Pushover service
